@@ -1,7 +1,7 @@
 # Interview_Project
 Create a test framework using java and selenium. The framework must use page object model and
- page factory (https://github.com/SeleniumHQ/selenium/wiki/PageFactory) and 
- HTML Element (https://github.com/yandex-qatools/htmlelements) framework
+page factory (https://github.com/SeleniumHQ/selenium/wiki/PageFactory) and 
+HTML Element (https://github.com/yandex-qatools/htmlelements) framework
 
 Browser: Chrome
 
